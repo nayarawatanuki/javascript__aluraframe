@@ -71,7 +71,7 @@ Ou, caso prefira baixá-lo clicando [aqui](https://github.com/nayarawatanuki/jav
 Baixe o projeto clicando [aqui](https://github.com/nayarawatanuki/javascript__aluraframe/archive/refs/heads/main.zip).
 
 > Após baixar o projeto, abra a pasta do projeto (Caso o projeto seja baixado em zip, é necessário extraí-lo antes de abrir), então clique no:
-> - Aqruivo **``src/index.html``**
+> - Aqruivo **``index.html``**
 > - O projeto abrirá em seu navegador padrão (aconselho configurar para o Chrome, se possível)
 
 </br>
